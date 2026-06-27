@@ -1,0 +1,13 @@
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.csproj.AssemblyReference.cache
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\bin\Debug\BookManager.exe
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\bin\Debug\BookManager.pdb
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookMana.811100A4.Up2Date
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.exe
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\obj\Debug\BookManager.pdb
+C:\Users\苏苏帅b\source\repos\BookManager\BookManager\bin\Debug\System.Data.SQLite.xml
